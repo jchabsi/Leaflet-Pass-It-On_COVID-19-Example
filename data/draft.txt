@@ -1,0 +1,94 @@
+    "2020-04-04": {
+        "caba": {
+            "confirmed": 520
+        },
+        "buenos_aires": {
+            "confirmed": 364
+        },
+        "chaco": {
+            "confirmed": 121
+        },
+        "cordoba": {
+            "confirmed": 138
+        },
+        "corrientes": {
+            "confirmed": 23
+        },
+        "entre_rios": {
+            "confirmed": 18
+        },
+        "jujuy": {
+            "confirmed": 5
+        },
+        "la_pampa": {
+            "confirmed": 3
+        },
+        "la_rioja": {
+            "confirmed": 6
+        },
+        "mendoza": {
+            "confirmed": 29
+        },
+        "misiones": {
+            "confirmed": 3
+        },
+        "neuquen": {
+            "confirmed": 41
+        },
+        "rio_negro": {
+            "confirmed": 14
+        },
+        "salta": {
+            "confirmed": 3
+        },
+        "san_juan": {
+            "confirmed": 1
+        },
+        "san_luis": {
+            "confirmed": 9
+        },
+        "santa_cruz": {
+            "confirmed": 23
+        },
+        "santa_fe": {
+            "confirmed": 165
+        },
+        "sgo_del_stero": {
+            "confirmed": 4
+        },
+        "tierra_del_fuego": {
+            "confirmed": 72
+        },
+        "tucuman": {
+            "confirmed": 22
+        },
+        "total_infections": 1451,
+        "total_deaths": 43,
+        "new_cases": 98,
+        "new_deaths": 1
+    }
+
+Ciudad Autónoma de Buenos Aires
+Neuquén
+La Pampa
+Mendoza
+San Luis
+Córdoba
+Santa Fe
+Entre Ríos
+San Juan
+La Rioja
+Catamarca
+Tucumán
+Jujuy
+Chaco
+Formosa
+Santiago del Estero
+Tierra del Fuego, Antártida e Islas del Atlántico Sur
+Santa Cruz
+Chubut
+Río Negro
+Buenos Aires
+Corrientes
+Misiones
+Salta
